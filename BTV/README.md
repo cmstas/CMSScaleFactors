@@ -1,6 +1,6 @@
 # Original locations of the files
 
-## Run 2 UL:
+## Run 2 UL
 - wp_deepJet_106XUL16preVFP_v2.csv: https://twiki.cern.ch/twiki/pub/CMS/BtagRecommendation106XUL16preVFP/wp_deepJet_106XUL16preVFP_v2.csv
 - wp_deepJet_106XUL16postVFP_v3.csv: https://twiki.cern.ch/twiki/pub/CMS/BtagRecommendation106XUL16postVFP/wp_deepJet_106XUL16postVFP_v3.csv
 - wp_deepJet_106XUL17_v3.csv: https://twiki.cern.ch/twiki/pub/CMS/BtagRecommendation106XUL17/wp_deepJet_106XUL17_v3.csv
