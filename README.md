@@ -7,6 +7,7 @@ Each folder corresponds to a POG:
 - EGM for EGamma
 - MUO for Muon
 - TAU for Tau.
+
 This naming convention is hopefully the same as in https://gitlab.cern.ch/cms-nanoAOD/jsonpog-integration/-/tree/master/POG so that it is easier to match them. If not, feel free to rename them.
 
 Each subfolder contains a README that lists the original location of the files, so it should be easy to trace any changes in prescription through twikis and various other repositories.
